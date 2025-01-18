@@ -12,8 +12,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
+- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/induwara-thisarindu/clipboard-landing-page))
 - Live Site URL: [Live](https://your-live-site-url.com)
 
 ## My process
